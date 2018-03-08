@@ -1,0 +1,468 @@
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\App.xbf
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\MainPage.xbf
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\FiveHundred.xr.xml
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\FiveHundred.exe
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\FiveHundred.pdb
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\resources.pri
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\AppxManifest.xml
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Adapters.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\AssemblyInfo.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Assets\StoreLogo.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\ClrCompression.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Data.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\FiveHundred.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\FiveHundred.exe
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\FiveHundred.ITFProxy.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\FiveHundred.pdb
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\FiveHundred.xr.xml
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Helpers.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\ImplTypes.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\PInvoke.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Back Covers\Emerald.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Back Covers\Peter River.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Back Covers\Pomegranate.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Back Covers\Sun Flower.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Clubs\C10.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Clubs\C11.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Clubs\C12.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Clubs\C13.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Clubs\C14.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Clubs\C2.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Clubs\C3.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Clubs\C4.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Clubs\C5.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Clubs\C6.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Clubs\C7.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Clubs\C8.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Clubs\C9.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Diamonds\D10.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Diamonds\D11.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Diamonds\D12.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Diamonds\D13.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Diamonds\D14.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Diamonds\D2.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Diamonds\D3.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Diamonds\D4.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Diamonds\D5.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Diamonds\D6.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Diamonds\D7.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Diamonds\D8.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Diamonds\D9.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Hearts\H10.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Hearts\H11.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Hearts\H12.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Hearts\H13.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Hearts\H14.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Hearts\H2.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Hearts\H3.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Hearts\H4.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Hearts\H5.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Hearts\H6.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Hearts\H7.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Hearts\H8.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Hearts\H9.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Jokers\Joker_1.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Jokers\Joker_2.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Jokers\Joker_3.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Jokers\Joker_4.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Spades\S10.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Spades\S11.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Spades\S12.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Spades\S13.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Spades\S14.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Spades\S2.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Spades\S3.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Spades\S4.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Spades\S5.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Spades\S6.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Spades\S7.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Spades\S8.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\Playing Cards\Spades\S9.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\resources.pri
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\SafeTypes.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ilc\SharedStubs.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\FiveHundred.build.appxrecipe
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\Microsoft.CSharp.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Core.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Net.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Numerics.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Runtime.Serialization.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.ServiceModel.Web.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.ServiceModel.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Windows.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Xml.Linq.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Xml.Serialization.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Xml.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\mscorlib.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\Microsoft.VisualBasic.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\Microsoft.Win32.Primitives.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Private.DataContractSerialization.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.AppContext.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Collections.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Collections.Concurrent.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Collections.Immutable.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Collections.NonGeneric.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Collections.Specialized.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.ComponentModel.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.ComponentModel.Annotations.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Data.Common.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Diagnostics.Contracts.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Diagnostics.Debug.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Diagnostics.StackTrace.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Diagnostics.Tools.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Diagnostics.Tracing.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Dynamic.Runtime.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Globalization.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Globalization.Calendars.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Globalization.Extensions.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.IO.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.IO.Compression.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\ClrCompression.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.IO.Compression.ZipFile.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.IO.FileSystem.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.IO.IsolatedStorage.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Linq.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Linq.Expressions.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Linq.Parallel.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Linq.Queryable.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Net.Http.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Net.Http.Rtc.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Net.NetworkInformation.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Net.Primitives.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Net.Requests.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Net.Sockets.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Net.WebHeaderCollection.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Numerics.Vectors.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.ObjectModel.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Private.Networking.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Private.ServiceModel.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Private.Uri.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Reflection.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Reflection.Context.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Reflection.DispatchProxy.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Reflection.Emit.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Reflection.Emit.ILGeneration.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Reflection.Extensions.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Reflection.Metadata.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Reflection.Primitives.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Reflection.TypeExtensions.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Resources.ResourceManager.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Runtime.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Runtime.Extensions.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Runtime.Handles.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Runtime.InteropServices.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Runtime.Numerics.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Runtime.Serialization.Json.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Security.Claims.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Security.Principal.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.ServiceModel.Duplex.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.ServiceModel.Http.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.ServiceModel.NetTcp.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.ServiceModel.Primitives.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.ServiceModel.Security.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Text.Encoding.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Text.Encoding.CodePages.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Text.Encoding.Extensions.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Text.RegularExpressions.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Threading.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Threading.Overlapped.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Threading.Tasks.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Threading.Timer.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Xml.ReaderWriter.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Xml.XDocument.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Xml.XmlDocument.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x86\Release\System.Xml.XmlSerializer.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\FiveHundred.csprojResolveAssemblyReference.cache
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\App.g.i.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\App.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\MainPage.g.i.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\MainPage.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\XamlTypeInfo.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\App.xaml
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\MainPage.xaml
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\App.xbf
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\MainPage.xbf
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\XamlSaveStateFile.xml
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\FiveHundred.exe
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\FiveHundred.pdb
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ResourceHandlingTask.state
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\FiveHundred.csproj.GenerateResource.Cache
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\priconfig.xml
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\priconfig.xml.intermediate
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\layout.resfiles
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\layout.resfiles.intermediate
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\resources.resfiles
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\resources.resfiles.intermediate
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\pri.resfiles
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\pri.resfiles.intermediate
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\qualifiers.txt
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\qualifiers.txt.intermediate
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ProjectArchitectures.txt
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Properties\Default.rd.xml
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\FiveHundred.xr.xml
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\AppxManifest.xml
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\FiveHundred.pdb
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\FiveHundred.exe
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Microsoft.CSharp.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.ComponentModel.DataAnnotations.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Core.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Net.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Numerics.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Runtime.Serialization.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.ServiceModel.Web.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.ServiceModel.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Windows.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Xml.Linq.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Xml.Serialization.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Xml.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\mscorlib.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Microsoft.VisualBasic.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Microsoft.Win32.Primitives.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Private.DataContractSerialization.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.AppContext.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Collections.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Collections.Concurrent.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Collections.Immutable.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Collections.NonGeneric.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Collections.Specialized.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.ComponentModel.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.ComponentModel.Annotations.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.ComponentModel.EventBasedAsync.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Data.Common.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Diagnostics.Contracts.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Diagnostics.StackTrace.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Diagnostics.Tools.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Diagnostics.Tracing.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Dynamic.Runtime.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Globalization.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Globalization.Calendars.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Globalization.Extensions.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.IO.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.IO.Compression.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.IO.Compression.ZipFile.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.IO.FileSystem.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.IO.FileSystem.Primitives.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.IO.IsolatedStorage.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.IO.UnmanagedMemoryStream.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Linq.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Linq.Expressions.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Linq.Parallel.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Linq.Queryable.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Net.Http.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Net.Http.Rtc.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Net.NetworkInformation.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Net.Primitives.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Net.Requests.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Net.Sockets.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Net.WebHeaderCollection.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.ObjectModel.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Private.Networking.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Private.ServiceModel.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Private.Uri.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Reflection.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Reflection.Context.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Reflection.Emit.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Reflection.Emit.ILGeneration.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Reflection.Extensions.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Reflection.Metadata.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Reflection.Primitives.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Reflection.TypeExtensions.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Resources.ResourceManager.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Runtime.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Runtime.Extensions.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Runtime.Handles.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Runtime.Numerics.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Runtime.Serialization.Json.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Runtime.Serialization.Primitives.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Runtime.Serialization.Xml.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Security.Claims.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Security.Principal.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.ServiceModel.Duplex.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.ServiceModel.Http.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.ServiceModel.NetTcp.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.ServiceModel.Primitives.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.ServiceModel.Security.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Text.Encoding.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Text.Encoding.CodePages.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Text.Encoding.Extensions.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Text.RegularExpressions.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Threading.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Threading.Overlapped.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Threading.Tasks.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Threading.Tasks.Dataflow.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Threading.Tasks.Parallel.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Threading.Timer.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Xml.ReaderWriter.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Xml.XDocument.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Xml.XmlDocument.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\System.Xml.XmlSerializer.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\resources.pri
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\ClrCompression.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Back Covers\Emerald.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Back Covers\Peter River.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Back Covers\Pomegranate.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Back Covers\Sun Flower.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Clubs\C10.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Clubs\C2.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Clubs\C3.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Clubs\C4.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Clubs\C5.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Clubs\C6.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Clubs\C7.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Clubs\C8.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Clubs\C9.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Clubs\C14.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Clubs\C11.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Clubs\C13.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Clubs\C12.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Diamonds\D10.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Diamonds\D2.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Diamonds\D3.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Diamonds\D4.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Diamonds\D5.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Diamonds\D6.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Diamonds\D7.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Diamonds\D8.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Diamonds\D9.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Diamonds\D14.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Diamonds\D11.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Diamonds\D13.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Diamonds\D12.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Hearts\H10.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Hearts\H2.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Hearts\H3.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Hearts\H4.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Hearts\H5.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Hearts\H6.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Hearts\H7.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Hearts\H8.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Hearts\H9.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Hearts\H14.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Hearts\H11.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Hearts\H13.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Hearts\H12.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Jokers\Joker_1.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Jokers\Joker_2.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Jokers\Joker_3.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Jokers\Joker_4.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Spades\S10.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Spades\S2.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Spades\S3.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Spades\S4.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Spades\S5.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Spades\S6.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Spades\S7.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Spades\S8.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Spades\S9.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Spades\S14.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Spades\S11.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Spades\S13.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Playing Cards\Spades\S12.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Assets\LockScreenLogo.scale-200.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Assets\SplashScreen.scale-200.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-200.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Assets\Square44x44Logo.scale-200.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Assets\StoreLogo.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\in\Assets\Wide310x150Logo.scale-200.png
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc.FiveHundred.rsp
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.rc
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.res
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.txt
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\FiveHundred.ITFProxy.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\FiveHundred.McgInterop.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\FiveHundred.McgInterop.pdb
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\FiveHundred.McgInterop\Adapters.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\FiveHundred.McgInterop\AssemblyInfo.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\FiveHundred.McgInterop\Data.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\FiveHundred.McgInterop\Helpers.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\FiveHundred.McgInterop\ImplTypes.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\FiveHundred.McgInterop\PInvoke.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\FiveHundred.McgInterop\SafeTypes.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\FiveHundred.McgInterop\SharedStubs.g.cs
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\gkargs.rsp
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\FiveHundred.closure.csv
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\FiveHundred.csv
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\FiveHundred.forwarders.csv
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\FiveHundred.ilexe
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\FiveHundred.ilexe.ILTransformTask.repro
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\FiveHundred.ilpdb
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\FiveHundred.McgInterop.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\FiveHundred.McgInterop.ilpdb
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\FiveHundred.metadata
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\FiveHundred.reflectionlog.csv
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\FiveHundred.res
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.Win32.Primitives.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.AppContext.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Data.Common.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.StackTrace.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Tools.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.Extensions.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.Primitives.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.IsolatedStorage.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.UnmanagedMemoryStream.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ilpdb
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Networking.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ilpdb
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ilpdb
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ilpdb
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Handles.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Principal.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.Parallel.ildll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\MDIL\FiveHundred.mdilexe
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\MDIL\FiveHundred.mdilpdb
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\MDIL\FiveHundred.rsp
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\Native.res
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\Native\FiveHundred.pdb
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\FiveHundred.exe
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\FiveHundred.pdb
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\rhbindargs.FiveHundred.rsp
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\sgargs.rsp
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
+J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll.ILTransformTask.repro

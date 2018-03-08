@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="3211ed92-c983-4643-87f4-35965a70bc8c" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FiveHundred.xr.xml" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/FiveHundred.xr.xml">
+				<Candidate type="Path">
+					<Value>FiveHundred.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Playing Cards">
+				<ResourceMapSubtree name="Back Covers">
+					<NamedResource name="Emerald.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Back Covers/Emerald.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Back Covers\Emerald.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Peter River.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Back Covers/Peter River.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Back Covers\Peter River.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Pomegranate.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Back Covers/Pomegranate.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Back Covers\Pomegranate.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Sun Flower.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Back Covers/Sun Flower.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Back Covers\Sun Flower.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Clubs">
+					<NamedResource name="C10.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Clubs/C10.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Clubs\C10.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="C11.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Clubs/C11.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Clubs\C11.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="C12.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Clubs/C12.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Clubs\C12.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="C13.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Clubs/C13.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Clubs\C13.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="C14.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Clubs/C14.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Clubs\C14.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="C2.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Clubs/C2.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Clubs\C2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="C3.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Clubs/C3.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Clubs\C3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="C4.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Clubs/C4.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Clubs\C4.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="C5.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Clubs/C5.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Clubs\C5.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="C6.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Clubs/C6.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Clubs\C6.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="C7.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Clubs/C7.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Clubs\C7.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="C8.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Clubs/C8.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Clubs\C8.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="C9.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Clubs/C9.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Clubs\C9.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Diamonds">
+					<NamedResource name="D10.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Diamonds/D10.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Diamonds\D10.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="D11.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Diamonds/D11.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Diamonds\D11.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="D12.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Diamonds/D12.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Diamonds\D12.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="D13.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Diamonds/D13.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Diamonds\D13.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="D14.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Diamonds/D14.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Diamonds\D14.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="D2.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Diamonds/D2.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Diamonds\D2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="D3.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Diamonds/D3.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Diamonds\D3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="D4.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Diamonds/D4.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Diamonds\D4.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="D5.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Diamonds/D5.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Diamonds\D5.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="D6.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Diamonds/D6.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Diamonds\D6.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="D7.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Diamonds/D7.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Diamonds\D7.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="D8.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Diamonds/D8.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Diamonds\D8.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="D9.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Diamonds/D9.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Diamonds\D9.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Hearts">
+					<NamedResource name="H10.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Hearts/H10.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Hearts\H10.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="H11.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Hearts/H11.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Hearts\H11.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="H12.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Hearts/H12.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Hearts\H12.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="H13.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Hearts/H13.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Hearts\H13.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="H14.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Hearts/H14.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Hearts\H14.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="H2.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Hearts/H2.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Hearts\H2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="H3.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Hearts/H3.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Hearts\H3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="H4.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Hearts/H4.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Hearts\H4.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="H5.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Hearts/H5.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Hearts\H5.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="H6.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Hearts/H6.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Hearts\H6.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="H7.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Hearts/H7.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Hearts\H7.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="H8.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Hearts/H8.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Hearts\H8.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="H9.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Hearts/H9.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Hearts\H9.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Jokers">
+					<NamedResource name="Joker_1.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Jokers/Joker_1.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Jokers\Joker_1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Joker_2.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Jokers/Joker_2.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Jokers\Joker_2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Joker_3.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Jokers/Joker_3.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Jokers\Joker_3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Joker_4.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Jokers/Joker_4.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Jokers\Joker_4.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Spades">
+					<NamedResource name="S10.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Spades/S10.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Spades\S10.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="S11.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Spades/S11.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Spades\S11.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="S12.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Spades/S12.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Spades\S12.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="S13.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Spades/S13.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Spades\S13.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="S14.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Spades/S14.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Spades\S14.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="S2.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Spades/S2.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Spades\S2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="S3.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Spades/S3.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Spades\S3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="S4.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Spades/S4.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Spades\S4.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="S5.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Spades/S5.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Spades\S5.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="S6.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Spades/S6.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Spades\S6.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="S7.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Spades/S7.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Spades\S7.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="S8.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Spades/S8.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Spades\S8.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="S9.png" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Playing Cards/Spades/S9.png">
+						<Candidate type="Path">
+							<Value>Playing Cards\Spades\S9.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://3211ed92-c983-4643-87f4-35965a70bc8c/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,2 @@
+MainPackage=J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\bin\x64\Release\FiveHundred_1.0.3.0_x64.appx
+SymbolPackage=J:\WelTec\2016\Semester 2\IT6253 Programming II\Assignment 2\FiveHundred\FiveHundred\AppPackages\FiveHundred_1.0.3.0_Test\FiveHundred_1.0.3.0_x64.appxsym

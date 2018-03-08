@@ -1,0 +1,243 @@
+﻿<Page
+    x:Class="FiveHundred.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FiveHundred"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="720" Width="1280">
+
+    <Grid x:ConnectionId='1' x:Name="mainGrid" Background="Green">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="160" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />      <!-- Column 3 Player North and South-->
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="160" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="120" />        <!-- Row 3 Player East and West-->
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="120" />
+            <RowDefinition Height="128" />
+        </Grid.RowDefinitions>
+
+        <TextBlock x:ConnectionId='2' x:Name="currentDealerBlock" Margin="5" Grid.Column="1" Grid.Row="0" Foreground="White" />
+
+        <!-- North Player Grid-->
+        <Grid x:ConnectionId='3' x:Name="northGrid" Grid.Column="2" Grid.ColumnSpan="3" Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <TextBlock x:ConnectionId='67' x:Name="playerNorth" Grid.Row="0" Text="Team 1 North" 
+                   Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            <TextBlock x:ConnectionId='68' x:Name="northBid" Foreground="White" Grid.Row="1" Margin="5"
+                   Text="Bid: " VerticalAlignment="Top" HorizontalAlignment="Center" Visibility="Collapsed"/>
+        </Grid>
+
+        <!-- East Player Grid-->
+        <Grid x:ConnectionId='4' x:Name="EastGrid" Margin="5" Grid.Column="5" Grid.ColumnSpan="2" Grid.Row="3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <TextBlock x:ConnectionId='65' x:Name="playerEast" Grid.Row="0" Text="Team 2 East" Margin="5"
+                   Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Right" />
+            <TextBlock x:ConnectionId='66' x:Name="eastBid" Foreground="White" Grid.Row="1" Margin="5"
+                   Text="Bid: " VerticalAlignment="Top" HorizontalAlignment="Right" Visibility="Collapsed"/>
+        </Grid>
+
+        <!-- South Player Grid-->
+        <Grid x:ConnectionId='5' x:Name="southGrid" Grid.Column="2" Grid.ColumnSpan="3" Grid.Row="6">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <TextBlock x:ConnectionId='63' x:Name="playerSouth" Grid.Row="0" Text="Team 1 South" 
+                   Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            <TextBlock x:ConnectionId='64' x:Name="southBid" Foreground="White" Grid.Row="1" Margin="5"
+                   Text="Bid: " VerticalAlignment="Top" HorizontalAlignment="Center" Visibility="Collapsed"/>
+        </Grid>
+
+        <!-- West Player Grid-->
+        <Grid x:ConnectionId='6' x:Name="westGrid" Margin="5" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <TextBlock x:ConnectionId='61' x:Name="playerWest" Grid.Row="0" Text="Team 2 West" Margin="5"
+                   Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Left" />
+            <TextBlock x:ConnectionId='62' x:Name="westBid" Foreground="White" Grid.Row="1" Margin="5"
+                   Text="Bid: " VerticalAlignment="Top" HorizontalAlignment="Left" Visibility="Collapsed"/>
+        </Grid>
+
+        <!-- Kitty Cards-->
+        <Grid x:ConnectionId='7' x:Name="kittyGrid" Grid.Column="2" Grid.ColumnSpan="3" Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="144" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="144" />
+            </Grid.ColumnDefinitions>
+            <Border x:ConnectionId='55' x:Name="borderCardK1" Grid.Column="1" Height="112" BorderBrush="SkyBlue" Width="78">
+                <Image x:ConnectionId='60' x:Name="cardK1"                                  />
+            </Border>
+            <Border x:ConnectionId='56' x:Name="borderCardK2" Grid.Column="2" Height="112" BorderBrush="SkyBlue" Width="78">
+                <Image x:ConnectionId='59' x:Name="cardK2"                                  />
+            </Border>
+            <Border x:ConnectionId='57' x:Name="borderCardK3" Grid.Column="3" Height="112" BorderBrush="SkyBlue" Width="78">
+                <Image x:ConnectionId='58' x:Name="cardK3"                                  />
+            </Border>
+        </Grid>
+
+        <!-- Bid and Pass Buttons-->
+        <Button x:ConnectionId='8' x:Name="bidButton" Grid.Column="3" Grid.Row="5" Content="Bid" Foreground="White"
+                HorizontalAlignment="Left"                         Visibility="Collapsed"/>
+        <Button x:ConnectionId='9' x:Name="passButton" Grid.Column="3" Grid.Row="5" Content="Pass" Foreground="White"
+                HorizontalAlignment="Right" Visibility="Collapsed"                         />
+
+        <!-- Player South Hand Image Holders-->
+        <Grid x:ConnectionId='10' x:Name="playerHandGrid" Margin="8" Grid.Column="0" Grid.ColumnSpan="7" Grid.Row="7">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="96" />     <!-- Padding-->
+                <ColumnDefinition Width="*" />  <!-- 1 -->
+                <ColumnDefinition Width="*" />  <!-- 2 -->
+                <ColumnDefinition Width="*" />  <!-- 3 -->
+                <ColumnDefinition Width="*" />  <!-- 4 -->
+                <ColumnDefinition Width="*" />  <!-- 5 -->
+                <ColumnDefinition Width="*" />  <!-- 6 -->
+                <ColumnDefinition Width="*" />  <!-- 7 -->
+                <ColumnDefinition Width="*" />  <!-- 8 -->
+                <ColumnDefinition Width="*" />  <!-- 9 -->
+                <ColumnDefinition Width="*" />  <!-- 10 -->
+                <ColumnDefinition Width="96" />     <!-- Padding-->
+            </Grid.ColumnDefinitions>
+            <Border x:ConnectionId='35' x:Name="borderCard1" Grid.Column="1" Height="112" BorderBrush="SkyBlue" >
+                <Image x:ConnectionId='54' x:Name="card1"                                   />
+            </Border>
+            <Border x:ConnectionId='36' x:Name="borderCard2" Grid.Column="2" Height="112" BorderBrush="SkyBlue" >
+                <Image x:ConnectionId='53' x:Name="card2"                                   />
+            </Border>
+            <Border x:ConnectionId='37' x:Name="borderCard3" Grid.Column="3" Height="112" BorderBrush="SkyBlue" >
+                <Image x:ConnectionId='52' x:Name="card3"                                   />
+            </Border>
+            <Border x:ConnectionId='38' x:Name="borderCard4" Grid.Column="4" Height="112" BorderBrush="SkyBlue" >
+                <Image x:ConnectionId='51' x:Name="card4"                                   />
+            </Border>
+            <Border x:ConnectionId='39' x:Name="borderCard5" Grid.Column="5" Height="112" BorderBrush="SkyBlue" >
+                <Image x:ConnectionId='50' x:Name="card5"                                   />
+            </Border>
+            <Border x:ConnectionId='40' x:Name="borderCard6" Grid.Column="6" Height="112" BorderBrush="SkyBlue" >
+                <Image x:ConnectionId='49' x:Name="card6"                                   />
+            </Border>
+            <Border x:ConnectionId='41' x:Name="borderCard7" Grid.Column="7" Height="112" BorderBrush="SkyBlue" >
+                <Image x:ConnectionId='48' x:Name="card7"                                   />
+            </Border>
+            <Border x:ConnectionId='42' x:Name="borderCard8" Grid.Column="8" Height="112" BorderBrush="SkyBlue" >
+                <Image x:ConnectionId='47' x:Name="card8"                                   />
+            </Border>
+            <Border x:ConnectionId='43' x:Name="borderCard9" Grid.Column="9" Height="112" BorderBrush="SkyBlue" >
+                <Image x:ConnectionId='46' x:Name="card9"                                   />
+            </Border>
+            <Border x:ConnectionId='44' x:Name="borderCard10" Grid.Column="10" Height="112" BorderBrush="SkyBlue" >
+                <Image x:ConnectionId='45' x:Name="card10"                                   />
+            </Border>
+        </Grid>
+
+        <!-- Bidding Grid-->
+        <Grid x:ConnectionId='11' x:Name="chooseBidGrid" Grid.Column="3" Grid.Row="4" Grid.RowSpan="2" 
+              Visibility="Collapsed">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Button x:ConnectionId='31' x:Name="acceptBidButton" Grid.Row="1" Content="Accept" Foreground="White"
+                    HorizontalAlignment="Left" Margin="5"                              />
+            <Button x:ConnectionId='32' x:Name="cancelBidButton" Grid.Row="1" Content="Cancel" Foreground="White"
+                    HorizontalAlignment="Right" Margin="5"                               />
+            <ComboBox x:ConnectionId='33' x:Name="bidSuitOptions" Grid.Row="0" HorizontalAlignment="Left" Margin="5" />
+            <ComboBox x:ConnectionId='34' x:Name="bidValueOptions" Grid.Row="0" HorizontalAlignment="Right" Margin="5" />
+        </Grid>
+
+        <!-- Choose Kitty Cards-->
+        <Button x:ConnectionId='12' x:Name="acceptKittyCardsButton" Grid.Column="3" Grid.Row="5" Visibility="Collapsed" 
+            Content="Accept" Foreground="White" HorizontalAlignment="Left" Margin="5" 
+                                                 />
+
+        <!-- Next Trick-->
+        <Button x:ConnectionId='13' x:Name="nextTrickButton" Grid.Column="2" Grid.Row="5" Visibility="Collapsed"
+            Content="Next Trick" Foreground="White" HorizontalAlignment="Left" Margin="5"                               />
+
+        <!-- Winning Call-->
+        <Grid x:ConnectionId='14' x:Name="trumpsGrid" Grid.Column="1" Grid.Row="1" Grid.RowSpan="2" Visibility="Visible">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30" />
+                <RowDefinition Height="30" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <TextBlock x:ConnectionId='28' x:Name="currentCallBlock" Grid.Row="0" Foreground="White" Margin="5" VerticalAlignment="Top"/>
+            <TextBlock x:ConnectionId='29' x:Name="team1TricksBlock" Grid.Row="1" Foreground="White" Margin="5" VerticalAlignment="Top"
+                       Text="Team 1 tricks: 0" Visibility="Collapsed"/>
+            <TextBlock x:ConnectionId='30' x:Name="team2TricksBlock" Grid.Row="2" Foreground="White" Margin="5" VerticalAlignment="Top"
+                       Text="Team 2 tricks: 0" Visibility="Collapsed"/>
+        </Grid>
+
+        <!-- Trick area-->
+        <Image x:ConnectionId='15' x:Name="trickCardNorth" Grid.Column="3" Grid.Row="1" Grid.RowSpan="3"
+               VerticalAlignment="Top" Visibility="Collapsed" Height="112"/>
+        <Image x:ConnectionId='16' x:Name="trickCardEast" Grid.Column="4" Grid.Row="2" Grid.RowSpan="3"
+               VerticalAlignment="Center" HorizontalAlignment="Left" Visibility="Collapsed" Height="112"/>
+        <Image x:ConnectionId='17' x:Name="trickCardSouth" Grid.Column="3" Grid.Row="3" Grid.RowSpan="3"
+               VerticalAlignment="Bottom" Visibility="Collapsed" Height="112"/>
+        <Image x:ConnectionId='18' x:Name="trickCardWest" Grid.Column="2" Grid.Row="2" Grid.RowSpan="3"
+               VerticalAlignment="Center" HorizontalAlignment="Right" Visibility="Collapsed" Height="112"/>
+        
+        <!-- Points-->
+        <Grid x:ConnectionId='19' x:Name="pointsGrid" Margin="5" Grid.Column="6" Grid.Row="0" Visibility="Visible">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <TextBlock x:ConnectionId='24' x:Name="team1NameBlock" Grid.Column="0" Grid.Row="0" VerticalAlignment="Top"
+                   HorizontalAlignment="Left" Visibility="Visible" Foreground="White" Text="Team 1"/>
+            <TextBlock x:ConnectionId='25' x:Name="team2NameBlock" Grid.Column="1" Grid.Row="0" VerticalAlignment="Top"
+                   HorizontalAlignment="Left" Visibility="Visible" Foreground="White" Text="Team 2"/>
+            <TextBlock x:ConnectionId='26' x:Name="team1PointsBlock" Grid.Column="0" Grid.Row="1" VerticalAlignment="Top"
+                   HorizontalAlignment="Left" Visibility="Visible" Foreground="White" Text="0"/>
+            <TextBlock x:ConnectionId='27' x:Name="team2PointsBlock" Grid.Column="1" Grid.Row="1" VerticalAlignment="Top"
+                   HorizontalAlignment="Left" Visibility="Visible" Foreground="White" Text="0"/>
+        </Grid>
+        
+        <!-- Finish Game Grid-->
+        <Grid x:ConnectionId='20' x:Name="finishGameGrid" Grid.Column="2" Grid.ColumnSpan="3" Grid.Row="3" Visibility="Collapsed">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <TextBlock x:ConnectionId='21' x:Name="gameWinnerBlock" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Foreground="White"
+                       Text="n00b" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="36"/>
+            <Button x:ConnectionId='22' x:Name="newGameButton" Grid.Column="0" Grid.Row="1" Content="New Game?" Foreground="White" 
+                    HorizontalAlignment="Center"                            />
+            <Button x:ConnectionId='23' x:Name="quitButton" Grid.Column="1" Grid.Row="1" Content="Quit?" Foreground="White" 
+                    HorizontalAlignment="Center"                         />
+        </Grid>
+
+    </Grid>
+</Page>
+
